@@ -1,0 +1,5 @@
+/Users/johnwoodworth/Documents/Mizzou/IT 1000 - Woodworth/FinalProject/obj/Debug/net6.0/FinalProject.csproj.AssemblyReference.cache
+/Users/johnwoodworth/Documents/Mizzou/IT 1000 - Woodworth/FinalProject/obj/Debug/net6.0/FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnwoodworth/Documents/Mizzou/IT 1000 - Woodworth/FinalProject/obj/Debug/net6.0/FinalProject.AssemblyInfoInputs.cache
+/Users/johnwoodworth/Documents/Mizzou/IT 1000 - Woodworth/FinalProject/obj/Debug/net6.0/FinalProject.AssemblyInfo.cs
+/Users/johnwoodworth/Documents/Mizzou/IT 1000 - Woodworth/FinalProject/obj/Debug/net6.0/FinalProject.csproj.CoreCompileInputs.cache
